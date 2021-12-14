@@ -1,1 +1,1 @@
-# stringh-and-number
+# string-and-number
